@@ -4,18 +4,18 @@ A front-end clone of the YouTube homepage, built using HTML and CSS. This projec
 
 ## Features
 
-- **Header** — YouTube logo, search bar with search/voice-search buttons, upload icon, notifications with unread count, and user channel picture
-- **Sidebar** — Navigation links (Home, Explore, Subscriptions, Originals, YouTube Music, Library)
-- **Video Grid** — Responsive grid of video previews, each including:
+- **Header** - YouTube logo, search bar with search/voice-search buttons, upload icon, notifications with unread count, and user channel picture
+- **Sidebar** - Navigation links (Home, Explore, Subscriptions, Originals, YouTube Music, Library)
+- **Video Grid** - Responsive grid of video previews, each including:
   - Thumbnail with video duration
   - Channel profile picture
   - Video title, channel name, views, and upload date
 
 ## Tech Stack
 
-- **HTML5** — semantic structure
-- **CSS3** — layout, styling, and responsiveness
-- **Google Fonts** — Roboto font family
+- **HTML5** - semantic structure
+- **CSS3** - layout, styling, and responsiveness
+- **Google Fonts** - Roboto font family
 
 ## Project Structure
 ## 📁 Project Structure
@@ -42,7 +42,7 @@ Html-Css-Course/
 
 ## Purpose
 
-This project was built for learning purposes, to practice core HTML/CSS concepts such as flexbox layouts, grid systems, semantic markup, and component-based styling — using a real-world UI (YouTube) as reference.
+This project was built for learning purposes, to practice core HTML/CSS concepts such as flexbox layouts, grid systems, semantic markup, and component-based styling - using a real-world UI (YouTube) as reference.
 
 ## Credits
 
