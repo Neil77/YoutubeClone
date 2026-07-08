@@ -42,7 +42,7 @@ Html-Css-Course/
 
 ## Purpose
 
-This project was built for learning purposes, to practice core HTML/CSS concepts such as flexbox layouts, grid systems, semantic markup, and component-based styling - using a real-world UI (YouTube) as reference.
+This project was built for learning purposes, to practice core HTML/CSS concepts such as flexbox layouts, grid systems, semantic markup, and component-based styling, using a real-world UI (YouTube) as reference.
 
 ## Credits
 
