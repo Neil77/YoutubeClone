@@ -18,7 +18,6 @@ A front-end clone of the YouTube homepage, built using HTML and CSS. This projec
 - **Google Fonts** - Roboto font family
 
 ## Project Structure
-## 📁 Project Structure
 
 ```
 Html-Css-Course/
